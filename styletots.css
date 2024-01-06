@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(52, 173, 52);
+    color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+}
+h1{
+    color: #ffc635;
+}
+button{ 
+    font: 1em sans-serif;
+    color: #084208;
+    width: 150px ;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 3px;
+    border: none;
+    margin: 3px;
+    
+}
+#msgtext{
+    font: italic;
+}
+.cards{
+    display: inline;
+    padding-left:20px;
+}
+.card{
+    text-indent: 5px;
+}
